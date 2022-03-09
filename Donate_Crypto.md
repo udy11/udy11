@@ -1,6 +1,6 @@
-# If you found any of my work helpful and would like to donate crypocurrency, please use the address or scan QR-code of the cryptocurrency of your choice. If your choice of cryptocurrency is not mentioned below, let me know on https://t.me/udy11 and I'll add it here. Also let me know after you've made the donation and I'll add your name as supporter in the particular project's page. Thanks :)
+## If you found any of my work helpful and would like to donate crypocurrency, please use the address or scan QR-code of the cryptocurrency of your choice. If your choice of cryptocurrency is not mentioned below, let me know on https://t.me/udy11 and I'll add it here. Also let me know after you've made the donation and I'll add your name as supporter in the particular project's page. Thanks :)
 
-![ADA Cardano](https://github.com/udy11/udy11/crypto_qr/ada_cardano.png?raw=true)
+![ADA Cardano](crypto_qr/ada_cardano.png?raw=true)
 
 ADA Cardano
 
