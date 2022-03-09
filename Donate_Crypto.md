@@ -1,11 +1,13 @@
 ## If you found any of my work helpful and would like to donate crypocurrency, please use the address or scan QR-code of the cryptocurrency of your choice. If your choice of cryptocurrency is not mentioned below, let me know on https://t.me/udy11 and I'll add it here. Also let me know after you've made the donation and I'll add your name as supporter in the particular project's page. Thanks :)
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| Cryptocurrency | Address | QR Code |
+| ----------- | ----------- | ----------- |
+| BTC Bitcoin | 3FY5WRpiqxJZ38vx2zDodHLCzxDRiRL9W5 | ![3FY5WRpiqxJZ38vx2zDodHLCzxDRiRL9W5](crypto_qr/btc_bitcoin.png?raw=true) |
+| XNO Nano | nano_3ithq79jgn8ohp8wfe35mnke155ouzssijuu9wazmasnp441zimyb3xexh18 | ![nano_3ithq79jgn8ohp8wfe35mnke155ouzssijuu9wazmasnp441zimyb3xexh18](crypto_qr/xno_nano.png?raw=true) |
 
-![ADA Cardano](crypto_qr/ada_cardano.png?raw=true)
+
+![BTC Bitcoin
+](crypto_qr/ada_cardano.png?raw=true)
 
 ADA Cardano
 
