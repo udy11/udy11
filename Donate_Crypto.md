@@ -3,6 +3,7 @@
 | Cryptocurrency | Address | QR Code |
 | ----------- | ----------- | ----------- |
 | BTC Bitcoin | 3FY5WRpiqxJZ38vx2zDodHLCzxDRiRL9W5 | ![3FY5WRpiqxJZ38vx2zDodHLCzxDRiRL9W5](crypto_qr/btc_bitcoin.png?raw=true) |
+| ETH Ethereum (and all tokens and NFTs) | 0x21bb74a33f864814453af07af77c9837df3f914c | ![0x21bb74a33f864814453af07af77c9837df3f914c](crypto_qr/eth_ethereum.png?raw=true) |
 | XNO Nano | nano_3ithq79jgn8ohp8wfe35mnke155ouzssijuu9wazmasnp441zimyb3xexh18 | ![nano_3ithq79jgn8ohp8wfe35mnke155ouzssijuu9wazmasnp441zimyb3xexh18](crypto_qr/xno_nano.png?raw=true) |
 
 
