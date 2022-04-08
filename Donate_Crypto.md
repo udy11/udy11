@@ -2,7 +2,7 @@
 
 | Cryptocurrency | QR Code | Address |
 | ----------- | ----------- | ----------- |
-| **BTC** *Bitcoin* | ![3FY5WRpiqxJZ38vx2zDodHLCzxDRiRL9W5](crypto_qr/btc_bitcoin.png?raw=true) | 3FY5WRpiqxJZ38vx2zDodHLCzxDRiRL9W5 |
+| **BTC** *Bitcoin* | ![3FY5WRpiqxJZ38vx2zDodHLCzxDRiRL9W5](crypto_qr/btc_bitcoin.png?raw=true | true) | 3FY5WRpiqxJZ38vx2zDodHLCzxDRiRL9W5 |
 | **ETH** *Ethereum (with all tokens & NFTs)* | ![0x21bb74a33f864814453af07af77c9837df3f914c](crypto_qr/eth_ethereum.png?raw=true) | 0x21bb74a33f864814453af07af77c9837df3f914c |
 | **XNO** *Nano* | ![nano_3ithq79jgn8ohp8wfe35mnke155ouzssijuu9wazmasnp441zimyb3xexh18](crypto_qr/xno_nano.png?raw=true) | nano_3ithq79jgn8ohp8wfe35mnke155ouzssijuu9wazmasnp441zimyb3xexh18 |
 | **XMR** *Monero* | ![427VCa469xoY7anqY3Z5okCvxgyz7ZA1AFpdKjTJsc7gdqnYqiftiwh59574cjfER9djznRjdhNJRD895cSHRvA82u1rT7s](crypto_qr/xmr_monero.png?raw=true) | 427VCa469xoY7anqY3Z5okCvxgyz7ZA1AFpdKjTJsc7gdqnYqiftiwh59574cjfER9djznRjdhNJRD895cSHRvA82u1rT7s |
